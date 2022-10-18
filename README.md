@@ -1,8 +1,8 @@
 # Ocultar elementos con JavaScript ✨
 
 Estas son algunas formas de ocultar elementos usando JavaScript.
-Creado para el tutorial de 'Cómo ocultare elementos con JS' en mi canal de Youtube.
-**Mira el video haciendo click [aquí.](https://youtu.be/sYaEoNy5OGs)** 👈
+Creado para el tutorial de 'Cómo ocultar elementos con JS' en mi canal de Youtube.
+**Mira el video haciendo click [aquí.](https://www.youtube.com/watch?v=WD039DKsdyI)** 👈
 
 Sientete libre de descargar el código y modificarlo a tu antojo. Si tienes alguna duda o sugerencia, no dudes en dejar un comentario en el video. 😉
 
